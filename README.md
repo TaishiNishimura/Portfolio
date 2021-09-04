@@ -26,6 +26,8 @@
 例2)魅力的な声優の卵をいち早く発見したいと思っているアニメファンが、ジャンル検索機能で「声優」と絞り込んでリサーチをかける。
 
 ## 設計書
+- 画面遷移図
+  https://drive.google.com/file/d/1uW7jzy9UV3OcdjtB5LXEjKwAp_KqEjQM/view?usp=sharing
 - テーブル定義書
 　https://docs.google.com/spreadsheets/d/17--N02GDgnJbB_RAOD-TTZaByDson-9D3qfiWkG7ISo/edit?usp=sharing
 - ER図
